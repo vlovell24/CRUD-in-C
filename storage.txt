@@ -1,0 +1,6 @@
+Site: instagram        UserID: funny            Password: pics             
+Site: facebook         UserID: happy            Password: cats             
+Site: twitter          UserID: sad              Password: puppies          
+Site: chase            UserID: blue             Password: bank             
+Site: blue             UserID: bill             Password: gates            
+Site: ebay             UserID: auction          Password: site             
