@@ -16,9 +16,11 @@ The application opens to a 'home page' screen with a list of options:
 <img src="readme_images/image1.png" alt="image1" style="width: 500px;"/>
 </p>
 
+## NEW PASSWORD ENTRY
+
 Option Number 1 is a new password entry:
 
-You will be given a series of prompts asking:
+You will be given a series of prompts asking:      
 "What site is this password for?"
 "What is the User Id for this site?"
 "What is the password for this site?"
@@ -35,6 +37,12 @@ Fill out each of the questions and hit the enter key
 
 <p float="left">
 <img src="readme_images/image4.png" alt="image1" style="width: 500px;"/>
+</p>
+
+Once you have completed the entries, the screen will confirm your entry and show the main screen to select from.
+
+<p float="left">
+<img src="readme_images/image5.png" alt="image1" style="width: 500px;"/>
 </p>
 
 All of the code for this program is located in one .c file, with function prototypes declared in that file. You could 
