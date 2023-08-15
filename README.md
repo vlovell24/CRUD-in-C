@@ -22,7 +22,7 @@ The application opens to a 'home page' screen with a list of options:
 <img src="readme_images/image1.png" alt="image1" style="width: 500px;"/>
 </p>
 
-## NEW PASSWORD ENTRY
+## :new: NEW PASSWORD ENTRY
 
 Option Number 1 is a new password entry:
 
@@ -49,7 +49,7 @@ Once you have completed the entries, the screen will confirm your entry and show
 <img src="readme_images/image5.png" alt="image1" style="width: 500px;"/>
 </p>
 
-## VIEW EXISTING PASSWORDS
+## :abc: VIEW EXISTING PASSWORDS
 
 Option Number 2 is to view stored passwords.
 
@@ -59,7 +59,7 @@ A GUI screen will appear with all sites/passwords/user id's that are currently s
 <img src="readme_images/image6.png" alt="image1" style="width: 500px;"/>
 </p>
 
-## DELETE PASSWORDS
+## :x: DELETE PASSWORDS
 
 Option Number 3 is to delete existing passwords. 
 A screen will show all passwords currently stored in the txt file, with a number next to them. Select the number of the password that you want to delete, and hit enter.
@@ -68,7 +68,7 @@ A screen will show all passwords currently stored in the txt file, with a number
 <img src="readme_images/image7.png" alt="image1" style="width: 500px;"/>
 </p>
 
-## UPDATE PASSWORDS
+## :arrow_double_up: UPDATE PASSWORDS
 
 Option Number 4 is to update a pre-existing password.
 
