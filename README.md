@@ -53,6 +53,14 @@ A GUI screen will appear with all sites/passwords/user id's that are currently s
 <img src="readme_images/image6.png" alt="image1" style="width: 500px;"/>
 </p>
 
+## DELETE PASSWORDS
+
+Option Number 3 is to delete existing passwords. 
+A screen will show all passwords currently stored in the txt file, with a number next to them. Select the number of the password that you want to delete, and hit enter.
+
+<p float="left">
+<img src="readme_images/image7.png" alt="image1" style="width: 500px;"/>
+</p>
 
 
 
