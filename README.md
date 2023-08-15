@@ -10,10 +10,10 @@ A command line program written in C that stores a users password and user id for
 Compile the C code and run in your command line. You can download the matching storage.txt file, however, if you 
 don't, it will create an empty storage.txt file for you.
 
-use the following compile command:
+use the following compile command:   
 gcc main.c -o main
 
-once the file is compiled and executable will be created. Run with the following command:
+once the file is compiled and executable will be created. Run with the following command:   
 main.exe
 
 The application opens to a 'home page' screen with a list of options:
@@ -48,6 +48,7 @@ Once you have completed the entries, the screen will confirm your entry and show
 <p float="left">
 <img src="readme_images/image5.png" alt="image1" style="width: 500px;"/>
 </p>
+
 ## VIEW EXISTING PASSWORDS
 
 Option Number 2 is to view stored passwords.
