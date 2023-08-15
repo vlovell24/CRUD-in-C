@@ -62,7 +62,23 @@ A screen will show all passwords currently stored in the txt file, with a number
 <img src="readme_images/image7.png" alt="image1" style="width: 500px;"/>
 </p>
 
+## UPDATE PASSWORDS
 
+Option Number 4 is to update a pre-existing password.
+
+A screen will appear with all stored passwords, and ask you which word would you like to update?
+
+<p float="left">
+<img src="readme_images/image9.png" alt="image1" style="width: 500px;"/>
+</p>
+
+Type the word that you want to update and hit enter. You will then be asked what the new word should be.
+
+<p float="left">
+<img src="readme_images/image10.png" alt="image1" style="width: 500px;"/>
+</p>
+
+Type in the new word and hit enter. The word will be changed and you will be re-directed to the base home screen.
 
 All of the code for this program is located in one .c file, with function prototypes declared in that file. You could 
 create a .h file to store the prototypes in, and an additional .c file that holds all of the functions. I did not feel
