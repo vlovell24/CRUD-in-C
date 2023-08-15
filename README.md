@@ -43,6 +43,19 @@ Once you have completed the entries, the screen will confirm your entry and show
 <img src="readme_images/image5.png" alt="image1" style="width: 500px;"/>
 </p>
 
+## VIEW EXISTING PASSWORDS
+
+Option Number 2 is to view stored passwords.
+
+A GUI screen will appear with all sites/passwords/user id's that are currently stored.
+
+<p float="left">
+<img src="readme_images/image6.png" alt="image1" style="width: 500px;"/>
+</p>
+
+
+
+
 All of the code for this program is located in one .c file, with function prototypes declared in that file. You could 
 create a .h file to store the prototypes in, and an additional .c file that holds all of the functions. I did not feel
 that was necessary, but others may prefer to do that. 
