@@ -21,20 +21,18 @@ The application opens to a 'home page' screen with a list of options:
 Option Number 1 is a new password entry:
 
 You will be given a series of prompts asking:      
-"What site is this password for?"
-"What is the User Id for this site?"
-"What is the password for this site?"
+"What site is this password for?"   
+"What is the User Id for this site?"   
+"What is the password for this site?"   
 
 Fill out each of the questions and hit the enter key
 
 <p float="left">
 <img src="readme_images/image2.png" alt="image1" style="width: 500px;"/>
 </p>
-
 <p float="left">
 <img src="readme_images/image3.png" alt="image1" style="width: 500px;"/>
 </p>
-
 <p float="left">
 <img src="readme_images/image4.png" alt="image1" style="width: 500px;"/>
 </p>
