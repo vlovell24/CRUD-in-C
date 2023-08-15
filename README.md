@@ -16,7 +16,7 @@ gcc main.c -o main
 once the file is compiled and executable will be created. Run with the following command:   
 main.exe
 
-The application opens to a 'home page' screen with a list of options:
+The application opens to a :house: 'home page' screen with a list of options:
 
 <p float="left">
 <img src="readme_images/image1.png" alt="image1" style="width: 500px;"/>
