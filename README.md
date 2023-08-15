@@ -14,7 +14,13 @@ The application opens to a 'home page' screen with a list of options:
 
 <p float="left">
 <img src="readme_images/image1.png" alt="image1" style="width: 500px;"/>
-</p>p>
+</p>
+
+Option Number 1 is a new password entry:
+
+<p float="left">
+<img src="readme_images/image2.png" alt="image1" style="width: 500px;"/>
+</p>
 
 All of the code for this program is located in one .c file, with function prototypes declared in that file. You could 
 create a .h file to store the prototypes in, and an additional .c file that holds all of the functions. I did not feel
