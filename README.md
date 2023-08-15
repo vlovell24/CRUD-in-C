@@ -86,7 +86,7 @@ Type the word that you want to update and hit enter. You will then be asked what
 
 Type in the new word and hit enter. The word will be changed and you will be re-directed to the base home screen.
 
-##:information_source: ADDITIONAL INFORMATION
+## :information_source: ADDITIONAL INFORMATION
 
 All of the code for this program is located in one .c file, with function prototypes declared in that file. You could 
 create a .h file to store the prototypes in, and an additional .c file that holds all of the functions. I did not feel
